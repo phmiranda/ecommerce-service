@@ -1,0 +1,19 @@
+# comentário.
+.idea/
+.vscode/
+
+# comentário.
+/src/main/resources/app.properties
+
+# comentário.
+bin/
+gen/
+out/
+
+# comentário.
+target/
+
+# comentário.
+*.iml
+*.log
+
